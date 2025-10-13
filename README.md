@@ -47,7 +47,7 @@ I enjoy building scalable web apps, cloud deployments, and DevOps pipelines that
       <td> Weather API Web App</td>
       <td>Cloud / Web</td>
       <td>Python, Flask, OpenWeatherMap API, AWS EC2</td>
-      <td><a href="https://github.com/nikitathosare/weather-api-app">View Project</a></td>
+      <td><a href="(https://github.com/nikitathosare/Weather-Check-by-API)">View Project</a></td>
     </tr>
     <tr>
       <td align="center">2</td>
