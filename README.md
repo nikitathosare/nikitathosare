@@ -54,14 +54,14 @@ I enjoy building scalable web apps, cloud deployments, and DevOps pipelines that
       <td> Complaint Portal</td>
       <td>Web Application</td>
       <td>HTML, PHP, MySQL, CSS</td>
-      <td><a href="https://github.com/nikitathosare/complaint-portal">View Project</a></td>
+      <td><a href="https://github.com/nikitathosare/student-complaint-portal">View Project</a></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td> Mood Journal</td>
       <td>Full Stack</td>
       <td>PHP, HTML, CSS, MySQL</td>
-      <td><a href="https://github.com/nikitathosare/mood-journal">View Project</a></td>
+      <td><a href="https://github.com/nikitathosare/mood-journa">View Project</a></td>
     </tr>
   </tbody>
 </table>
