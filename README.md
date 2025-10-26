@@ -42,13 +42,6 @@ I enjoy building scalable web apps, cloud deployments, and DevOps pipelines that
     </tr>
   </thead>
   <tbody>
-   <tr>
-      <td align="center">1</td>
-      <td>Jenkins Static Website Automation</td>
-      <td> Web Application</td>
-      <td>HTML, CSS, Bash, Jenkins</td>
-      <td><a href=https://github.com/nikitathosare/jenkins-webshowcase-sh>View Project</a></td>
-    </tr>
     <tr>
       <td align="center">1</td>
       <td> Weather API Web App</td>
@@ -69,6 +62,13 @@ I enjoy building scalable web apps, cloud deployments, and DevOps pipelines that
       <td>Full Stack</td>
       <td>PHP, HTML, CSS, MySQL</td>
       <td><a href="https://github.com/nikitathosare/mood-journa">View Project</a></td>
+    </tr>
+     <tr>
+      <td align="center">4</td>
+      <td>Jenkins Static Website Automation</td>
+      <td> Jenkins Pipeline Shell Script</td>
+      <td>HTML, CSS, Bash, Jenkins</td>
+      <td><a href=https://github.com/nikitathosare/jenkins-webshowcase-sh>View Project</a></td>
     </tr>
   </tbody>
 </table>
