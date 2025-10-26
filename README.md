@@ -43,6 +43,9 @@ I enjoy building scalable web apps, cloud deployments, and DevOps pipelines that
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/nikitathosare/jenkins-webshowcase-sh">View Project</a></td>
+    </tr>
+    <tr>
       <td align="center">1</td>
       <td> Weather API Web App</td>
       <td>Cloud / Web</td>
