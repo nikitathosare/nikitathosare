@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=I+am+Nikita+Thosare!;AWS+Cloud+%26+DevOps+Engineer!;Python+Developer+%7C+Linux+%7C+Automation+Enthusiast!" alt="Typing SVG" />
   </a>
 </p>
-
+<p><img src="https://komarev.com/ghpvc/?username=nikitathosare&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" /></p>
 
 
 ---
