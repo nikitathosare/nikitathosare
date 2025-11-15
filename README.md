@@ -10,7 +10,7 @@
 
 ---
 
-##  `About Me`
+##  `About Me`        <img src="https://komarev.com/ghpvc/?username=nikitathosare&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />                 
 👋 Hi, I'm **Nikita Thosare**, a passionate **AWS Cloud & DevOps Engineer** with strong skills in automation, cloud infrastructure, and Python development.  
 I enjoy building scalable web apps, cloud deployments, and DevOps pipelines that solve real-world challenges.
 
